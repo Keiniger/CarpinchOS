@@ -1,5 +1,5 @@
-#ifndef MOD2_MAIN_H_
-#define MOD2_MAIN_H_
+#ifndef MEMORIA_MAIN_H_
+#define MEMORIA_MAIN_H_
 
 #include "../../shared/include/printeo.h"
 
