@@ -1,6 +1,6 @@
 # Globales
 CC = gcc
-OUTFILE = memoria.out
+OUTFILE = matelib.out
 
 ### Reglas ###
 

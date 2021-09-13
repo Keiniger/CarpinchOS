@@ -1,7 +1,7 @@
 #include "include/main.h"
 
 int main() {
-	printf("kernel andandooo \n");
+	printf("matelib andandooo \n");
 
 	return 0;
 }

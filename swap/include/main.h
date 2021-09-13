@@ -3,6 +3,4 @@
 
 #include <stdio.h>
 
-#include "../../shared/include/printeo.h"
-
 #endif

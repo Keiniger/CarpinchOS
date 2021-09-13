@@ -1,7 +1,7 @@
 #include "include/main.h"
 
 int main() {
-	print_chau("Me voy a dormir");
+	printf("memoria andandooo \n");
 
 	return 0;
 }
